@@ -6,8 +6,8 @@ Telegram-бот для обработки технических заявок. �
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/SergiOningeR/telegram_task_bot.git
-cd telegram_task_bot
+git clone https://github.com/SergiOningeR/telegram-task.git
+cd telegram-task
 ```
 
 2. Установите зависимости:
